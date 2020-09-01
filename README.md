@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+:book: I majored in computer science at Hanyang University.
+
+
+:smile: I'm interested in react, typescript, docker, and AWS.
+
+
+### i'm working on NudgeCode Now.
+
 <!--
 **OdysseyJ/OdysseyJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
