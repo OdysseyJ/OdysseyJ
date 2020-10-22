@@ -19,10 +19,15 @@
 뭔가를 하고있다면 불러도 대답안할 가능성이 큼.
 
 기술스택
+
 language : Typescript/Javascript/Python/Java
+
 front : React/ReactNative/NextJs/Jquery/Ajax/Apollo/Grapqhl
+
 back : NodeJs/Express/NestJs/Apollo/Graphql
+
 database : mysql/postgres/Redis
+
 dev-ops : Docker/Kubernetes/AWS/GCP
 
 <!--
