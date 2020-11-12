@@ -22,7 +22,7 @@
 
 #### 걸어온 길
 
-apollo - https://www.notion.so/seongwoon/Copy-of-Apollo-client-document-KOR-ac12fff0b58e4d288a2b2530939c53a6
+apollo client 공식문서 공부  - https://www.notion.so/seongwoon/Apollo-client-document-KOR-ac12fff0b58e4d288a2b2530939c53a6
 
 docker + javascript + nodejs - https://www.notion.so/seongwoon/Dr_HYU-7ee20a8038d84a9685ebbc3652169d73
 
