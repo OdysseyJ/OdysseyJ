@@ -1,6 +1,8 @@
 ### 2019.12 ~ 2020.06 : 웹 풀스택 개발 인턴 - Yonple
 ### (Now:smile:)2020.06 ~ : 웹 풀스택 개발자 - NudgeCode
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOdysseyJ&count_bg=%234A86D5&title_bg=%23A4CD65&icon=&icon_color=%23F91010&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 #### 특기
 1. 마지막 남은 음식 1개 처리하기
 2. 하루 12번 대표님 호출
