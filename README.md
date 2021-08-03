@@ -1,6 +1,6 @@
 ### 2019.12 ~ 2020.06 : 웹 풀스택 개발 인턴 - Yonple
 ### 2020.06 ~ 2021.04 : 웹 풀스택 개발자 - NudgeCode
-### (Now:smile:)2021.05  ~ :  개발자 - Tridge
+### (Now:smile:)2021.05  ~ : 서버개발자 - Tridge
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOdysseyJ&count_bg=%234A86D5&title_bg=%23A4CD65&icon=&icon_color=%23F91010&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
