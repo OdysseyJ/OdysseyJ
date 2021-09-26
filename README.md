@@ -14,11 +14,11 @@
 
 language : Typescript/Javascript/Python/Java
 
-front : React/ReactNative/NextJs/Jquery/Ajax/Apollo/Grapqhl
+front : React/Flutter/NextJs/Jquery/Ajax/Apollo/Grapqhl
 
-back : NodeJs/Express/NestJs/Apollo/Graphql
+back : NodeJs/Express/NestJs/Apollo/Graphql/Django
 
-database : mysql/postgres/Redis
+database : mysql/postgres/Redis/ElasticSearch
 
 dev-ops : Docker/Kubernetes/AWS/GCP
 
