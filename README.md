@@ -1,6 +1,8 @@
-Who are you? -> https://www.aaronjeong.dev
+## Who are you? 
 
-인생 업적
+https://www.aaronjeong.dev
+
+## 인생 업적
 
 깃허브에서 500 에러 내기
 <img width="1678" alt="스크린샷 2022-09-07 오후 8 54 39" src="https://user-images.githubusercontent.com/23691933/188872640-dcf32ab3-240c-4f90-9378-274d2ca6f47d.png">
